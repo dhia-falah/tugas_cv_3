@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "DHIA FALAH RAHMA WARDANI",
+            "alamat": "Kelurahan Patemon RT02 RW01 GunungPati Kota Semarang",
+            "phone": "+62 858-0330-3044",
+            "email": "dhiafala@gmail.com",
+            "bahasa1": "korean",
+            "bahasa2": "english",
+            "bahasa3": "java",
+            "bahasa4": "indonesia",
+            "hobi1": "Read a book",
+            "hobi2": "Swimming",
+            "hobi3": "Listening to music",
+            "hobi4": "Dance",
+            "sumary": "Senior web developer specializing in fornt end development.Experenced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS MySQL. Strong bacground in project management and customer relations.",
+            "skill": "Project management",
+            "skill1": "Strong decision maker",
+            "skill2": "Complex ptoblem solver",
+            "skill3": "Creative design",
+            "skill4": "Innovative",
+            "skill5": "Service-focused ",
+            "epe": "Cooperate with designers to create clean interfaces and simpel, intuitive interactions and experiences.",
+            "epe1": "Develop project concepts and main tain optimal workflow.",
+            "epe2": "Work with senior developer to manage large, complex design projects for corporate clients.",
+            "epe3": "Complete detailed programming and development tasks for front and public and internal websites as well as chllenging back-end server code.",
+            "epe4": "Carry out quality assurance tests to discover errors and optimize usablility."
+          }
+    
+    ]
+}
